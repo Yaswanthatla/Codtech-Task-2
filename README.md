@@ -14,3 +14,6 @@ In this task, we designed a Finite State Machine (FSM) using Verilog to detect a
 
 Conclusion
 By designing and simulating the FSM, we demonstrated the capability to implement sequential logic using Verilog. The testbench helped in verifying the FSM's behavior across different states and transitions, ensuring its correctness. This process provided insights into state machine design, state transition logic, and verification techniques in digital design using Verilog.
+
+Output:
+![IMG-20240622-WA0013](https://github.com/Yaswanthatla/Codtech-Task-2/assets/173559838/b243295f-19cc-4fd9-8df0-006ca8e8c17f)
